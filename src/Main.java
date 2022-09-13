@@ -26,7 +26,7 @@ public class Main {
         }
 
         System.out.println("");
-        System.out.println("Задание 3");
+        System.out.println("Задание 3 исправленное");
         int year = 2022;
         if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
             System.out.println(year + " год является високосным");
